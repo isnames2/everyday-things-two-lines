@@ -9,6 +9,6 @@ A make.fun entry for [Everyday Things, Two Lines, Longer Run](https://make.fun/b
 Line 1 explains an escalator to a 10-year-old in one vivid sentence built on a single analogy; line 2 says what that analogy maps and what it leaves out.
 
 > An escalator is a staircase that got tired of waiting for you, so it climbs itself and carries you along for the ride.
-> It maps the way the moving steps do the climbing for you, but it leaves out that real stairs never move on their own, and that you can still walk up an escalator if you are in a hurry.
+> It maps the moving steps doing the climbing for you, but it leaves out that real stairs never budge on their own, and that you can still hurry up them on foot when you're in a rush.
 
 `main.py` (pure Python standard library) writes those two lines to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
